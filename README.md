@@ -1,4 +1,4 @@
-Задание от компании "Ритм"
+Задание от компании "Ритм" (Selenium+PyTest)
 ![изображение](https://github.com/EllRomero/rhytm_qa/assets/138121505/03462d37-bd16-46b4-9773-60693482b6c8)
 
 
