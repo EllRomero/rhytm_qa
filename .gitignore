@@ -1,0 +1,5 @@
+/env
+**/__pycashe__
+__pycashe__/*
+**/.pytest_cache
+.pytest_cache/*
