@@ -11,7 +11,7 @@ def pytest_addoption(parser):
     parser.addoption(
         '--headless',
         help='опция браузера в фоновом режиме',
-        default=False,
+        default=True,
     )
 
 
